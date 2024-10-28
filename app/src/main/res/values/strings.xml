@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ficha Personal Repaso</string>
+    <string name="lblNombre">Name</string>
+    <string name="lblCurso">Course</string>
+    <string name="lblLenguajes">Languages</string>
+    <string name="lblNuevoRegistro">New Registration</string>
+    <string name="hintNombre">Name</string>
+    <string name="tituloMensajeRegistro">New Registration</string>
+    <string name="mensajeRegistro">¿Do you want to create a new registration?</string>
+    <string name="negativeMensaje">No</string>
+    <string name="positiveMensaje">Yes</string>
+    <string name="tituloCurso">Select course</string>
+    <string name="tituloLenguaje">Select languages</string>
+    <string name="mensajePoositivoLenguaje">Accept</string>
+</resources>
